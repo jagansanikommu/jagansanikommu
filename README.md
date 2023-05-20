@@ -6,6 +6,8 @@
 
 I'm an AI/ML enthusiast and full-stack web developer with a passion for building innovative solutions. This repository showcases my projects and contributions in various domains. Feel free to explore and get inspired!
 
+
+
 ## 🚀 Technologies and Tools
 
 - **Languages**: HTML, CSS, Java, Python, C.
@@ -31,7 +33,7 @@ Feel free to explore each project for detailed insights and implementations!
 
 Let's connect and collaborate on exciting projects! You can reach me via:
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jagan7)
-- Twitter: [twitter](https://twitter.com/jagans_7)
+- [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/jagans_7)
+- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jagan7)
 
 Feel free to reach out if you have any questions, suggestions, or opportunities to collaborate. Looking forward to connecting with you! 🌟✨
