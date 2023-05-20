@@ -26,6 +26,8 @@ This repository features a collection of projects that highlight my skills and e
 
 Feel free to explore each project for detailed insights and implementations!
 
+![My_data](https://github-readme-stats.vercel.app/api?username=jagansanikommu&show_icons=true&bg_color=00000000)
+
 ## 🤝 Let's Connect
 
 Let's connect and collaborate on exciting projects! You can reach me via:
