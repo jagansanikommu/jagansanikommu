@@ -30,7 +30,7 @@ Feel free to explore each project for detailed insights and implementations!
 
 Let's connect and collaborate on exciting projects! You can reach me via:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jagan7)
-- Twitter: [@your-twitter-handle](https://twitter.com/jagans_7)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jagan7)
+- Twitter: [twitter](https://twitter.com/jagans_7)
 
 Feel free to reach out if you have any questions, suggestions, or opportunities to collaborate. Looking forward to connecting with you! 🌟✨
