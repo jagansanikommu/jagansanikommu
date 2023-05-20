@@ -1,9 +1,8 @@
-# Welcome to My GitHub Repository! 👋
+# Hi there! I'm Jagan 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/jagansanikommu?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jagans_7?style=social)
 
-## Hi there! I'm Jagan 👨‍💻
 
 I'm an AI/ML enthusiast and full-stack web developer with a passion for building innovative solutions. This repository showcases my projects and contributions in various domains. Feel free to explore and get inspired!
 
