@@ -1,9 +1,6 @@
 # Hi there! I'm Jagan 👋
 
-<a href="https://github.com/jagansanikommu">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="Follow on GitHub" />
-  </a>
-
+![GitHub followers](https://img.shields.io/github/followers/jagansanikommu?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jagans_7?style=social)
 
 
