@@ -1,4 +1,4 @@
-# Hi there! I'm Jagan 👋
+ <h1>Hi there! I'm Jagan <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/jagansanikommu?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jagans_7?style=social)
