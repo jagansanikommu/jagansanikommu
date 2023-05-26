@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/jagans_7?style=social)
 
 
-I'm an AI/ML enthusiast and full-stack web developer with a passion for building innovative solutions. This repository showcases my projects and contributions in various domains. Feel free to explore and get inspired!
+I am an AI/ML enthusiast and a full-stack web developer. This repository displays a collection of my projects and contributions in different domains. Please feel free to explore.
 
 
 
