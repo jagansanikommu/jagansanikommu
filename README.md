@@ -3,8 +3,8 @@
 ## 🎓 About Me
 I'm a **Master's student in Artificial Intelligence** at Worcester Polytechnic Institute, passionate about advancing the frontiers of AI through research and practical applications. Currently working on cutting-edge projects in **self-supervised learning** and **deep learning**.
 
-## 🔬 Current Research
-- **DisCo: Distributional Contrastive Self-Supervised Learning** - Developing novel contrastive learning frameworks for vision tasks
+## 🔬 Current Research & Projects
+- **Multi-Stage Deep Learning for Semiconductor Vision** - Developing a hierarchical neural network approach for precise chip corner detection using PyTorch
 - **Enhanced Large Language Models** - Published at IEEE ICICIT 2024, focusing on context understanding and PEFT techniques
 
 ## 💼 Experience
@@ -34,7 +34,6 @@ I'm a **Master's student in Artificial Intelligence** at Worcester Polytechnic I
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
 
 ## 🏆 Highlights
 - 🎯 **Research Publications:** IEEE Conference presentations on LLM enhancement and AI applications
