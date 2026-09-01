@@ -2,7 +2,7 @@
 
 **AI Developer.** Building trust and verification infrastructure for autonomous agents.
 
-M.S. Artificial Intelligence, Worcester Polytechnic Institute (inaugural cohort, 2026). Working on the layer between what agents can retrieve and what is actually true.
+M.S. Artificial Intelligence, Worcester Polytechnic Institute. Working on the layer between what agents can retrieve and what is actually true.
 
 ---
 
