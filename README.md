@@ -12,20 +12,19 @@ Small, focused tools. Each one exists because I needed it and it didn't exist.
 
 | | |
 |---|---|
-| **[a11y-judgment](https://github.com/jagansanikommu/a11y-judgment)** | Accessibility review for the ~60% of WCAG criteria automated tools can't check — the ones that need a judgment call about meaning. |
+| **[a11y-judgment](https://github.com/jagansanikommu/a11y-judgment)** | Accessibility review for the ~60% of WCAG criteria automated tools can't check, the ones that need a judgment call about meaning. |
 | **[before-you-build](https://github.com/jagansanikommu/before-you-build)** | Checks how crowded an idea already is on GitHub before you spend a weekend rebuilding it. |
-| **[gh-trend-search](https://github.com/jagansanikommu/gh-trend-search)** | GitHub trending search that handles the Search API's undocumented rate limits and query quirks — including the one where grouping parentheses silently return zero results. |
-| **[readme-card](https://github.com/jagansanikommu/readme-card)** | Turns any GitHub repo into a shareable social card image. One command, no browser. |
+| **[gh-trend-search](https://github.com/jagansanikommu/gh-trend-search)** | GitHub trending search that handles the Search API's undocumented rate limits and query quirks, including the one where grouping parentheses silently return zero results. |
 
 ### Research
 
-- **Enhanced Large Language Models** — IEEE ICICIT 2024. Context understanding and parameter-efficient fine-tuning.
-- **InternEase: Creating Pathways to Professional Success** — ICDSMLA 2023.
-- **[CHIPNet: Coarse-to-Fine Hierarchical Inference for Precise Corner Detection on Chips using Neural Networks](https://digital.wpi.edu/concern/etds/gx41mp15r)** — M.S. thesis. A three-stage hierarchical deep neural network for corner detection in semiconductor chip images, reaching 99.06% patch detection accuracy. Advised by Prof. Ziming Zhang, in collaboration with Teradyne.
+- **Enhanced Large Language Models**, IEEE ICICIT 2024. Context understanding and parameter-efficient fine-tuning.
+- **InternEase: Creating Pathways to Professional Success**, ICDSMLA 2023.
+- **[CHIPNet: Coarse-to-Fine Hierarchical Inference for Precise Corner Detection on Chips using Neural Networks](https://digital.wpi.edu/concern/etds/gx41mp15r)**, M.S. thesis. A three-stage hierarchical deep neural network for precisely locating corners in semiconductor chip images, reaching 99.06% patch detection accuracy. Advised by [Prof. Ziming Zhang](https://zhang-vislab.github.io), in collaboration with Teradyne.
 
 ### Currently thinking about
 
-The public web is the *published* subset of the world's knowledge, not the whole of it. A great deal of true, valuable, verifiable knowledge is never written down anywhere — so agents can't retrieve it, and usually don't say so. They answer anyway.
+The public web is the *published* subset of the world's knowledge, not the whole of it. A great deal of true, valuable, verifiable knowledge is never written down anywhere, so agents can't retrieve it, and usually don't say so. They answer anyway.
 
 Most of my current work sits somewhere near that problem.
 
