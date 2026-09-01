@@ -21,7 +21,7 @@ Small, focused tools. Each one exists because I needed it and it didn't exist.
 
 - **Enhanced Large Language Models** — IEEE ICICIT 2024. Context understanding and parameter-efficient fine-tuning.
 - **InternEase: Creating Pathways to Professional Success** — ICDSMLA 2023.
-- **M.S. thesis** — computer-vision models for semiconductor test equipment, in collaboration with Teradyne.
+- **[CHIPNet: Coarse-to-Fine Hierarchical Inference for Precise Corner Detection on Chips using Neural Networks](https://digital.wpi.edu/concern/etds/gx41mp15r)** — M.S. thesis. A three-stage hierarchical deep neural network for corner detection in semiconductor chip images, reaching 99.06% patch detection accuracy. Advised by Prof. Ziming Zhang, in collaboration with Teradyne.
 
 ### Currently thinking about
 
